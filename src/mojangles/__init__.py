@@ -225,5 +225,3 @@ def profile_info(token):
         'Authorization': f'Bearer {token}'
     }
     return requests.get(url, headers=headers).json()
-
-print(profile_info(msa()))
