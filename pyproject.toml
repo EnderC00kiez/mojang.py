@@ -2,7 +2,7 @@
 requires = ["hatchling"]
 build-backend = "hatchling.build"
 [project]
-name = "mango"
+name = "mojangles"
 version = "1.0.0"
 authors = [
     { name="EnderC00kiez", email="enderc00kiez@enderc00kiez.xyz" },
