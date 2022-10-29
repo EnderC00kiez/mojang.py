@@ -1,3 +1,3 @@
-# mojang.py
+# mango
 
-This is a Mojang
+A simple mojang API wrapper made in python. Supports Microsoft Auth.
